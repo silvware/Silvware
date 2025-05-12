@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Silvware
+- 👀 I’m interested in computer science and videogame development
+- 🌱 I’m currently learning computer engineering
+- 💞️ I’m looking to collaborate on anything related with computers, open source or proprietary
+- 📫 How to reach me 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like lasagna.
