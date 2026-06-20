@@ -3,7 +3,7 @@
 - 👀 I’m interested in computer science and videogame development                        |
 - 🌱 I’m currently learning computer engineering.                                        |
 - 💞️ Open to collaborate on anything related with computers, open source or proprietary  |
-- 📫 How to reach me [Still working on the professional e-mail address]                  |
+- 📫 How to reach me: silvware@cleaksoftware.com                  |
 - 😄 Pronouns: He/Him                                                                    |
 - ⚡ Big fan of C Language and lasagna.                                                  |
   ----------------------------------------------------------------------------------------
